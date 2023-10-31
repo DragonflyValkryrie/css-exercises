@@ -1,0 +1,20 @@
+/*Style Sheert*/
+
+.odd{
+    background-color: rgb(255, 191, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four{
+    background-color: hsl(120, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
+.three{
+    font-size: 24px;
+}
